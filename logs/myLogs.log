@@ -1,0 +1,38 @@
+2020-06-02 10:35:59 TRACE MyFileUploadController:47 - Vao loadFormOneFile
+2020-06-02 10:35:59 INFO  MyFileUploadController:54 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:35:59 TRACE MyFileUploadController:58 - Thoat loadFormOneFile
+2020-06-02 10:36:06 TRACE MyFileUploadController:64 - Vao loadResult
+2020-06-02 10:36:06 TRACE MyFileUploadController:65 - Thoat loadResult
+2020-06-02 10:37:26 TRACE MyFileUploadController:47 - Vao loadFormOneFile
+2020-06-02 10:37:26 INFO  MyFileUploadController:54 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:37:26 TRACE MyFileUploadController:58 - Thoat loadFormOneFile
+2020-06-02 10:37:35 TRACE MyFileUploadController:64 - Vao loadResult
+2020-06-02 10:37:35 TRACE MyFileUploadController:65 - Thoat loadResult
+2020-06-02 10:43:58 TRACE MyFileUploadController:47 - Vao loadFormOneFile
+2020-06-02 10:43:58 INFO  MyFileUploadController:54 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:43:58 TRACE MyFileUploadController:58 - Thoat loadFormOneFile
+2020-06-02 10:44:02 TRACE MyFileUploadController:64 - Vao loadResult
+2020-06-02 10:44:02 TRACE MyFileUploadController:65 - Thoat loadResult
+2020-06-02 10:46:56 TRACE MyFileUploadController:71 - Vao loadFormMulti
+2020-06-02 10:46:56 INFO  MyFileUploadController:78 - Mang myFormUpload sang uploadMultiFile.jsp
+2020-06-02 10:46:56 TRACE MyFileUploadController:82 - Thoat loadFormMulti
+2020-06-02 10:49:21 TRACE MyFileUploadController:47 - Vao loadFormOneFile
+2020-06-02 10:49:21 INFO  MyFileUploadController:54 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:49:21 TRACE MyFileUploadController:58 - Thoat loadFormOneFile
+2020-06-02 10:49:27 TRACE MyFileUploadController:64 - Vao loadResult
+2020-06-02 10:49:27 TRACE MyFileUploadController:65 - Thoat loadResult
+2020-06-02 10:51:24 TRACE MyFileUploadController:47 - Vao loadFormOneFile
+2020-06-02 10:51:24 INFO  MyFileUploadController:54 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:51:24 TRACE MyFileUploadController:58 - Thoat loadFormOneFile
+2020-06-02 10:51:27 TRACE MyFileUploadController:64 - Vao loadResult
+2020-06-02 10:51:27 TRACE MyFileUploadController:65 - Thoat loadResult
+2020-06-02 10:52:38 TRACE MyFileUploadController:47 - Vao loadFormOneFile
+2020-06-02 10:52:38 INFO  MyFileUploadController:54 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:52:38 TRACE MyFileUploadController:58 - Thoat loadFormOneFile
+2020-06-02 10:52:44 TRACE MyFileUploadController:64 - Vao loadResult
+2020-06-02 10:52:44 TRACE MyFileUploadController:65 - Thoat loadResult
+2020-06-02 10:57:03 TRACE MyFileUploadController:48 - Vao loadFormOneFile
+2020-06-02 10:57:03 INFO  MyFileUploadController:55 - Mang object myFormUpload sang uploadOneFile.jsp
+2020-06-02 10:57:03 TRACE MyFileUploadController:59 - Thoat loadFormOneFile
+2020-06-02 10:57:08 TRACE MyFileUploadController:65 - Vao loadResult
+2020-06-02 10:57:08 TRACE MyFileUploadController:66 - Thoat loadResult
